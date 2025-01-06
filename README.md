@@ -13,7 +13,7 @@
 
 Pour créer l'application exécutable, utilisez la commande suivante :
 ```sh
-pyinstaller --onefile --noconsole --name "siapCartePro" --icon="C:/Users/ulrich/Downloads/carte/appl_siap/logo.ico" app.py
+pyinstaller --onefile --noconsole --name "siapCartePro" --icon="chemin/logo.ico" app.py
 ```
 Assurez-vous de vérifier les chemins et les instructions pour qu'ils correspondent à votre environnement et vos besoins spécifiques.
 Assurez-vous de vérifier les chemins et les instructions pour qu'ils correspondent à votre environnement et vos besoins spécifiques.
